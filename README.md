@@ -1,7 +1,7 @@
 # estudos-python-data
 
 
-# Cursos ja feitos
+# Cursos ja feitos (Alura)
 - Python para Dados: primeiros passos
 - Python para Dados: trabalhando com funções, estruturas de dados e exceções
 - NumPy: análise numérica eficiente com Python
